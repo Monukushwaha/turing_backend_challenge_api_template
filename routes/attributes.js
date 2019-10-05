@@ -1,4 +1,4 @@
-// var sql = require('../config');
+var sql = require('../config');
 
 module.exports=function(router)
 {
